@@ -1,2 +1,2 @@
 # nosixpack
- j2ee playground
+ j2ee playground, test jdbc connection in Tomcat
